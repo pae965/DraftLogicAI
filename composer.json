@@ -5,7 +5,7 @@
     "keywords": ["laravel", "research", "cms", "rus", "thai", "filament"],
     "license": "MIT",
     "require": {
-        "php": "^7.4",
+        "php": "^8.2",
         "guzzlehttp/guzzle": "^7.4",
         "laravel/framework": "^8.83",
         "laravel/jetstream": "^2.16",
